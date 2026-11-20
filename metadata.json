@@ -1,0 +1,6 @@
+{
+  "name": "SIM-PPATS",
+  "description": "Sistem Informasi Manajemen Kantor PPATS & Pertanahan — operasional end-to-end dari loket masuk, ekstraksi dokumen AI, bundel akta Word, buku register akta, hingga laporan bulanan BPN & Bapenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
